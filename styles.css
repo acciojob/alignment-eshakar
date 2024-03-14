@@ -14,4 +14,12 @@ td {
 
 .right {
   text-align: right;
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
 }
